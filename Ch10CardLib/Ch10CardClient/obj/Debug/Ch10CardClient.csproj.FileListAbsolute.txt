@@ -1,0 +1,8 @@
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.exe.config
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.csprojResolveAssemblyReference.cache
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.exe
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.pdb
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardLib.dll
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardLib.pdb
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.exe
+F:\Learning\CSharp\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.pdb

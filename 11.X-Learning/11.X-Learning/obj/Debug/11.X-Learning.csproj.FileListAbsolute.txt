@@ -1,0 +1,6 @@
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\bin\Debug\11.X-Learning.exe.config
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\bin\Debug\11.X-Learning.exe
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\bin\Debug\11.X-Learning.pdb
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\obj\Debug\11.X-Learning.csprojResolveAssemblyReference.cache
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\obj\Debug\11.X-Learning.exe
+F:\Learning\CSharp\11.X-Learning\11.X-Learning\obj\Debug\11.X-Learning.pdb

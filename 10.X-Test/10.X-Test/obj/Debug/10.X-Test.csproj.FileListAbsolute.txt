@@ -1,0 +1,6 @@
+F:\Learning\CSharp\10.X-Test\10.X-Test\bin\Debug\10.X-Test.exe.config
+F:\Learning\CSharp\10.X-Test\10.X-Test\bin\Debug\10.X-Test.exe
+F:\Learning\CSharp\10.X-Test\10.X-Test\bin\Debug\10.X-Test.pdb
+F:\Learning\CSharp\10.X-Test\10.X-Test\obj\Debug\10.X-Test.csprojResolveAssemblyReference.cache
+F:\Learning\CSharp\10.X-Test\10.X-Test\obj\Debug\10.X-Test.exe
+F:\Learning\CSharp\10.X-Test\10.X-Test\obj\Debug\10.X-Test.pdb

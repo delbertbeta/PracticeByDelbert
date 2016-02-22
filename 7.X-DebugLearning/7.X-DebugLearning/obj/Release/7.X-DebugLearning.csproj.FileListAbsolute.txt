@@ -1,0 +1,5 @@
+F:\Learning\CSharp\7.X-DebugLearning\7.X-DebugLearning\bin\Release\7.X-DebugLearning.exe.config
+F:\Learning\CSharp\7.X-DebugLearning\7.X-DebugLearning\bin\Release\7.X-DebugLearning.exe
+F:\Learning\CSharp\7.X-DebugLearning\7.X-DebugLearning\bin\Release\7.X-DebugLearning.pdb
+F:\Learning\CSharp\7.X-DebugLearning\7.X-DebugLearning\obj\Release\7.X-DebugLearning.exe
+F:\Learning\CSharp\7.X-DebugLearning\7.X-DebugLearning\obj\Release\7.X-DebugLearning.pdb

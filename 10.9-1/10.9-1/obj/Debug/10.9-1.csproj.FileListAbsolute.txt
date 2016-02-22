@@ -1,0 +1,6 @@
+F:\Learning\CSharp\10.9-1\10.9-1\bin\Debug\10.9-1.exe.config
+F:\Learning\CSharp\10.9-1\10.9-1\bin\Debug\10.9-1.exe
+F:\Learning\CSharp\10.9-1\10.9-1\bin\Debug\10.9-1.pdb
+F:\Learning\CSharp\10.9-1\10.9-1\obj\Debug\10.9-1.csprojResolveAssemblyReference.cache
+F:\Learning\CSharp\10.9-1\10.9-1\obj\Debug\10.9-1.exe
+F:\Learning\CSharp\10.9-1\10.9-1\obj\Debug\10.9-1.pdb
