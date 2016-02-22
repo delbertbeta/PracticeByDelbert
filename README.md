@@ -1,3 +1,3 @@
 # PracticeByDelbert
 
-Delbert正在努力成为技术宅
+Delbert姝ｅ湪鍔姏姝ｆ垚涓烘妧鏈畢.
